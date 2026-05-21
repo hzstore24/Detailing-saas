@@ -1,0 +1,6 @@
+{
+  "name": "JobProof Generator",
+  "description": "A tool for local service businesses to upload before and after images to generate job proofs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
